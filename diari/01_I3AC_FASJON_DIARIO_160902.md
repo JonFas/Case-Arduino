@@ -1,7 +1,6 @@
 ###### Jonathan Fassora | Progetto 1
 # Diario di lavoro - 02.09.2016
 ## Lavori svolti
-ora inizio - ora fine | lavoro (tabella)
 
 | Ora inizio | Ora fine | Lavoro svolto |
 |:-------------:|:-------------:|:-----:|
