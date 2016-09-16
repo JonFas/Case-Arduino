@@ -1,9 +1,5 @@
 ###### Jonathan Fassora | Progetto 1
-<<<<<<< HEAD
-# Diario di lavoro - 02.09.2016
-=======
 # Diario di lavoro 1 - 02.09.2016
->>>>>>> 602ed488f05d53b0f3ea2f3131048bbb38f57bc0
 ## Lavori svolti
 
 | Ora inizio | Ora fine | Lavoro svolto |

@@ -1,11 +1,11 @@
 ###### Jonathan Fassora | Progetto 1
-# Diario di lavoro - 02.09.2016
+# Diario di lavoro 3 - 16.09.2016
 ## Lavori svolti
 
 | Ora inizio | Ora fine | Lavoro svolto |
 |:-------------:|:-------------:|:-----:|
-| 10:05 | 11:00 |  |
-| 11:00 | 12:20 |  |
+| 10:05 | 11:00 | Nella prima parte della lezione è stata spiegata la teoria sulla parte di analisi di un progetto, caratteristiche, requisiti e documenti. |
+| 11:00 | 12:20 | In questa ora abbia |
 | 13:15 | ? | ? |
 
 ## Problemi / Soluzioni
@@ -14,5 +14,3 @@
 -
 ## Programma di massima per la prossima giornata di lavoro
 -
-
-<i> <b> Nota: </b> mi scuso per il ritardo di questa consegna, ho avuto diversi problemi di connessione al momento di inviare il file
