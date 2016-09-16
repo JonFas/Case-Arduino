@@ -1,6 +1,6 @@
 
 <hr>
-#### Verbale 16.09.16, Trevano
+## Verbale 16.09.16, Trevano
 <i>Nico Ambrosini, Pietro Belfanti, Carlo Bogani, Riccardo di Summa, Jonathan Fassora, Alessandro Narciso, Massimo Saia, Alessio Tocchetti, Federico Weithaler, Adriano Barchi (committente)
 ######  1. Quanto è il budget (materiali)?
 Considerati materiale principale (compensato) e materiale di fissaggio, dai 10 ai 20 CHF.
