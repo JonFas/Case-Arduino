@@ -92,7 +92,7 @@
 
 ### Analisi del dominio
 
-  Nella situazione attuale qualunqe lavoro su Arduino viene generalmente trasportato portandosi appresso la bread board e con la scheda 'penzolante', o se proprio nella scatola del kit, sperando che non si stacchi nulla o, soprattutto, che non cada. Tramite questo piccolo progetto (e il suo 'compagno', l'holder) si vuole dunque evitare questo genere di problemi, con il case in particolare si dovrebbe riuscire a trasportare la scheda dell'Arduino in modo più sicure, essendo comunque uno strumento piuttosto fragile.
+  Nella situazione attuale qualunqe lavoro su Arduino viene generalmente trasportato portandosi appresso la bread board e con la scheda 'penzolante', o se proprio nella scatola del kit, sperando che non si stacchi nulla o, soprattutto, che non cada. Tramite questo piccolo progetto (e il suo 'compagno', l'holder) si vuole dunque evitare questo genere di problemi, con il case in particolare si dovrebbe riuscire a trasportare la scheda dell'Arduino in modo più sicuro, essendo comunque uno strumento piuttosto fragile.
 
   Esistono chiaramente prodotti affini e fabbricati con precisione assoluta, fatti apposta per ogni singolo modello. Come già detto questo progetto è a scopo didattico, dunque non è necessariamente un problema creare un prodotto che non è 'all'altezza' di ciò che si trova sul mercato, e comunque il suo lavoro lo farà lo stesso.
 
