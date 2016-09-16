@@ -159,6 +159,17 @@
 |**002**      | Dovrà dunque resistere piccole cadute (1 m circa) e qualche colpo (come all'interno di uno zaino) |
 |**003**      | La resistenza nel tempo è relativa alla resistenza del compensato e del materiale di fissaggio scelto |
 
+<hr>
+
+|ID  |REQ-006                                         |
+|----|------------------------------------------------|
+|**Nome**    | Aerazione |
+|**Priorità** | 1                     |
+|**Versione** | 1.0                   |
+|**Note**    |-|
+|**Sub-ID**            |**Sotto requisiti** |
+|**001**      | Il case dovrà avere delle uscite per il calore |
+
 ### Use case
 
 I casi d’uso rappresentano l’interazione tra i vari attori e le
