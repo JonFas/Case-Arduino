@@ -1,11 +1,11 @@
 ###### Jonathan Fassora | Progetto 1
-# Diario di lavoro 6 - 07.10.2016
+# Diario di lavoro 7 - 14.10.2016
 ## Lavori svolti
 
 | Ora inizio | Ora fine | Lavoro svolto |
 |:-------------:|:-------------:|:-----:|
-| 10:05 | 12:20 | Teoria sulla fase di implementazione. |
-| 13:15 | 15:45 | Costruzione (taglio del legno). |
+| 10:05 | 12:20 | Conclusione della costruzione del case, fissaggio del coperchio, rivestimento con il nastro, fissaggio del gancio di chiusura. |
+| 13:15 | : | Redazione documento di implementazione. |
 
 ## Problemi / Soluzioni
 

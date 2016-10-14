@@ -1,9 +1,11 @@
+# Case Arduino, implementazione
+
 1. [Introduzione](#introduzione)
 
   - [Informazioni sul progetto](#informazioni-sul-progetto)
 
   - [Scopo](#scopo)
- 
+
 1. [Implementazione](#implementazione)
 
 1. [Test](#test)
@@ -32,52 +34,41 @@
 
 ### Informazioni sul progetto
 
-  In questo capitolo raccogliere le informazioni relative al progetto, ad esempio:
+  Progetto: Case per Arduino
 
-  -   Allievo/i e docente/i coinvolti nel progetto e rispettivi ruoli,
+  Allievo: Jonathan Fassora
 
-  -   scuola ,sezione, materia/e,
+  Docenti: Adriano Barchi, Luca Muggiasca
 
-  -   date di inizio e termine di consegna,
+  Scuola Arti e Mestieri Trevano, Informatica, Modulo 306 + progetti
 
-  -   …
-  -   
+  Inizio: 09.09.2016
+
+  Consegna: 21.10.2016
 
 ## Implementazione
 
-In questo capitolo dovrà essere mostrato come è stato realizzato il
-lavoro. Questa parte può differenziarsi dalla progettazione in quanto il
-risultato ottenuto non per forza può essere come era stato progettato.
-
-Sulla base di queste informazioni il lavoro svolto dovrà essere
-riproducibile.
-
-In questa parte è richiesto l’inserimento di codice sorgente/print
-screen di maschere solamente per quei passaggi particolarmente
-significativi e/o critici.
-
-Inoltre dovranno essere descritte eventuali varianti di soluzione o
-scelte di prodotti con motivazione delle scelte.
-
-Non deve apparire nessuna forma di guida d’uso di librerie o di
-componenti utilizzati. Eventualmente questa va allegata.
-
-Per eventuali dettagli si possono inserire riferimenti ai diari.
+### Taglio del legno
+Per fare il taglio del legno ho disegnato le parti del case direttamente sul compensato a misura giusta. Al momento del taglio ho lasciato un margine che sono poi andato a rifinire con la carta vetrata per una maggiore precisione. Per praticare i buchi necessari (sul fronte 2 prese, sul coperchio fori per i cavi) ho sfruttato un trapano per inserire la lama del traforo e tagliare "dall'interno".
+### Assemblaggio
+Una volta ricavati i pezzi (coperchio, fronte, retro, doppia base) ho assemblato il case. Per fare ciò ho prima di tutto incollato la doppia base (utilizzando la colla calda) e in seguito le pareti, attaccandole ai 'lati' della base (vedi disegno progettazione), tutto sempre con la colla calda. L'attacco del coperchio verrà invece fatto in un secondo momento.
+### Fissaggio Arduino
+Per fissare l'arduino, ma dare sempre la possibilità di attaccare o staccare la scheda, ho sfruttato delle viti con dado. Per prima cosa ho indicato sulla base i punti in cui l'arduino si andrà a fissare, in seguito ho fatto dei fori con il trapano a misura delle viti. In questo modo per togliere l'arduino sarebbe bastato svitare la vite rispettivamente il dado. Ho però incontrato il problema della lunghezza delle viti, non sufficiente a fissare l'arduino (avevo a disposizione quelle da 1 cm, considerando la base di 8mm, l'arduino e l'agio da lasciare per il dado).<br>
+Per risolvere ho dunque utilizzato il trapano, con una punta a dimensione del bullone, sul fondo della base per creare un'invasatura che permettesse di inserire ed incastrare il dado nel legno. In questo modo si può avvitare e svitare la vite senza problemi in quanto il bullone è fisso in fondo, e soprattutto viene risolto il problema della lunghezza, in quanto la vita penetra più a fondo e permette effettivamente di fissare il tutto.<br>
+### Chiusura
+Per permettere una chiusura solida ma non troppo macchinosa ho utilizzato dei ganci per appendere quadri. Ho dunque fissato uno di questi ganci al coperchio tramite 2 chiodi e un po' di colla (facendo attenzione a fissarlo sulla parte inferiore dello stesso, altrimenti non arriverebbe al chiodo cui 'appendersi'), in seguito (valutando dove arrivava il gancio) ho inserito un chiodo su cui il gancio andrà appunto a chiudere il case.<br>
+Per attaccare il coperchio invece ho semplicemente usato diverse strisce di nastro da hockey in direzioni incrociate in modo da ottenere un'attaccatura solida.
+### Rivestimento
+In conclusione ho coperto, in varie direzioni, tutto il case con il nastro da hockey, con particolare attenzione per gli spigoli, per i 2 punti in cui si attacca il coperchio (dunque la 'cerniera' di nastro e il gancio che chiude), e soprattutto per i 4 punti in cui i bulloni sono incastrati.
 
 ## Test
 
 ### Protocollo di test
 
-Definire in modo accurato tutti i test che devono essere realizzati per
-garantire l’adempimento delle richieste formulate nei requisiti. I test
-fungono da garanzia di qualità del prodotto. Ogni test deve essere
-ripetibile alle stesse condizioni.
-
-
 |Test Case      | TC-001                               |
 |---------------|--------------------------------------|
-|**Nome**       |Import a card, but not shown with the GUI |
-|**Riferimento**|REQ-012                               |
+|**Nome**       | |
+|**Riferimento**|REQ-002                               |
 |**Descrizione**|Import a card with KIC, KID and KIK keys with no obfuscation, but not shown with the GUI |
 |**Prerequisiti**|Store on local PC: Profile\_1.2.001.xml (appendix n\_n) and Cards\_1.2.001.txt (appendix n\_n) |
 |**Procedura**     | - Go to “Cards manager” menu, in main page click “Import Profiles” link, Select the “1.2.001.xml” file, Import the Profile - Go to “Cards manager” menu, in main page click “Import Cards” link, Select the “1.2.001.txt” file, Delete the cards, Select the “1.2.001.txt” file, Import the cards |
@@ -122,46 +113,16 @@ facilmente generalizzabili o sono specifici di un caso particolare? ecc
 ## Bibliografia
 
 ### Bibliografia per articoli di riviste
-1.  Cognome e nome (o iniziali) dell’autore o degli autori, o nome
-    dell’organizzazione,
 
-2.  Titolo dell’articolo (tra virgolette),
-
-3.  Titolo della rivista (in italico),
-
-4.  Anno e numero
-
-5.  Pagina iniziale dell’articolo,
+-
 
 ### Bibliografia per libri
 
-
-1.  Cognome e nome (o iniziali) dell’autore o degli autori, o nome
-    dell’organizzazione,
-
-2.  Titolo del libro (in italico),
-
-3.  ev. Numero di edizione,
-
-4.  Nome dell’editore,
-
-5.  Anno di pubblicazione,
-
-6.  ISBN.
+-
 
 ### Sitografia
 
-1.  URL del sito (se troppo lungo solo dominio, evt completo nel
-    diario),
-
-2.  Eventuale titolo della pagina (in italico),
-
-3.  Data di consultazione (GG-MM-AAAA).
-
-**Esempio:**
-
--   http://standards.ieee.org/guides/style/section7.html, *IEEE
-    Standards Style Manual*, 07-06-2008.
+-
 
 ## Allegati
 

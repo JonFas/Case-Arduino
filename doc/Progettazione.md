@@ -1,4 +1,4 @@
-# Case Arduino
+# Case Arduino, progettazione
 
 1. [Introduzione](#introduzione)
 
@@ -46,32 +46,7 @@
 
 ### Abstract
 
-  E’ una breve e accurata rappresentazione dei contenuti di un documento,
-  senza notazioni critiche o valutazioni. Lo scopo di un abstract efficace
-  dovrebbe essere quello di far conoscere all’utente il contenuto di base
-  di un documento e metterlo nella condizione di decidere se risponde ai
-  suoi interessi e se è opportuno il ricorso al documento originale.
-
-  Può contenere alcuni o tutti gli elementi seguenti:
-
-  -   **Background/Situazione iniziale**
-
-  -   **Descrizione del problema e motivazione**: Che problema ho cercato
-      di risolvere? Questa sezione dovrebbe includere l'importanza del
-      vostro lavoro, la difficoltà dell'area e l'effetto che potrebbe
-      avere se portato a termine con successo.
-
-  -   **Approccio/Metodi**: Come ho ottenuto dei progressi? Come ho
-      risolto il problema (tecniche…)? Quale è stata l’entità del mio
-      lavoro? Che fattori importanti controllo, ignoro o misuro?
-
-  -   **Risultati**: Quale è la risposta? Quali sono i risultati? Quanto è
-      più veloce, più sicuro, più economico o in qualche altro aspetto
-      migliore di altri prodotti/soluzioni?
-
-  Esempio di abstract:
-
-  > *Considering the difficulties and risks in carrying the Arduino, we were requested to build a protective case for the board, while still being able to use it effectively, even when the case is closed.*
+  > *Since the Arduino is a quite fragile item, it can be risky to bring it around. Considering this the request was to design and build a protective case in which the board would be protected while still being usable (connecting cables, resetting). In this document you'll find an explanation of the idea behind the creation of this case, and in the other document ('Implementazione.md') you'll find how to build it.*
 
 ### Scopo
 
@@ -160,10 +135,6 @@
 |**Sub-ID**            |**Sotto requisiti** |
 |**001**      | Il case dovrà avere delle uscite per il calore |
 
-### Use case
-
-I casi d’uso rappresentano l’interazione tra i vari attori e le
-funzionalità del prodotto.
 
 ### Pianificazione
 
@@ -171,66 +142,20 @@ funzionalità del prodotto.
 
 ### Analisi dei mezzi
 
-  - Compensato 4 mm
-  - Nastro da hockey
-  - Viti con dado
-  - Gancio appendi-quadri
-  - Officina
-  - Colla calda
-  - Cacciaviti, trapani, traforo, ...
+  Per realizzare questo progetto abbiamo a disposizione l'Arduino (versione UNO RoboTale) e l'officina con tutti gli utensili necessari alla costruzione di lavori in legno (martelli, pinze, cacciaviti, trafori, ...).
 
 ## Progettazione
 
-Questo capitolo descrive esaustivamente come deve essere realizzato il
-prodotto fin nei suoi dettagli. Una buona progettazione permette
-all’esecutore di evitare fraintendimenti e imprecisioni
-nell’implementazione del prodotto.
+### Preparazione
 
-### Design dell’architettura del sistema
+- Compensato 4 mm
+- Nastro da hockey
+- Viti con dado (3x10)
+- Gancio appendi-quadri
+- Officina
+- Colla calda
+- Cacciaviti, trapani, traforo, ...
 
-Descrive:
++costi/spese
 
--   La struttura del programma/sistema lo schema di rete...
-
--   Gli oggetti/moduli/componenti che lo compongono.
-
--   I flussi di informazione in ingresso ed in uscita e le
-    relative elaborazioni. Può utilizzare *diagrammi di flusso dei
-    dati* (DFD).
-
--   Eventuale sitemap
-
-### Design dei dati e database
-
-Descrizione delle strutture di dati utilizzate dal programma in base
-agli attributi e le relazioni degli oggetti in uso.
-
-### Schema E-R, schema logico e descrizione.
-
-Se il diagramma E-R viene modificato, sulla doc dovrà apparire l’ultima
-versione, mentre le vecchie saranno sui diari.
-
-### Design delle interfacce
-
-Descrizione delle interfacce interne ed esterne del sistema e
-dell’interfaccia utente. La progettazione delle interfacce è basata
-sulle informazioni ricavate durante la fase di analisi e realizzata
-tramite mockups.
-
-### Design procedurale
-
-Descrive i concetti dettagliati dell’architettura/sviluppo utilizzando
-ad esempio:
-
--   Diagrammi di flusso e Nassi.
-
--   Tabelle.
-
--   Classi e metodi.
-
--   Tabelle di routing
-
--   Diritti di accesso a condivisioni …
-
-Questi documenti permetteranno di rappresentare i dettagli procedurali
-per la realizzazione del prodotto.
+### Design
