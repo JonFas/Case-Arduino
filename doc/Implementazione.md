@@ -68,20 +68,19 @@ In conclusione ho coperto, in varie direzioni, tutto il case con il nastro da ho
 |Test Case      | TC-001                               |
 |---------------|--------------------------------------|
 |**Nome**       | |
-|**Riferimento**|REQ-002                               |
-|**Descrizione**|Import a card with KIC, KID and KIK keys with no obfuscation, but not shown with the GUI |
-|**Prerequisiti**|Store on local PC: Profile\_1.2.001.xml (appendix n\_n) and Cards\_1.2.001.txt (appendix n\_n) |
-|**Procedura**     | - Go to “Cards manager” menu, in main page click “Import Profiles” link, Select the “1.2.001.xml” file, Import the Profile - Go to “Cards manager” menu, in main page click “Import Cards” link, Select the “1.2.001.txt” file, Delete the cards, Select the “1.2.001.txt” file, Import the cards |
-|**Risultati attesi** |Keys visible in the DB (OtaCardKey) but not visible in the GUI (Card details) |
+|**Riferimento**| REQ-002                               |
+|**Descrizione**| Collegamento dei cavi tramite i fori |
+|**Prerequisiti**| - |
+|**Procedura**     |  |
+|**Risultati attesi** | L'arduino si collega senza problemi ai componenti passando per i fori nel coperchio. |
 
 
 ### Risultati test
 
-Tabella riassuntiva in cui si inseriscono i test riusciti e non del
-prodotto finale. Se un test non riesce e viene corretto l’errore, questo
-dovrà risultare nel documento finale come riuscito (la procedura della
-correzione apparirà nel diario), altrimenti dovrà essere descritto
-l’errore con eventuali ipotesi di correzione.
+|Test Case      | Risultato                             |
+|---------------|---------------------------------------|
+| TC-001        | Passato/Non passato                   |
+| TC-002        | Passato/Non passato                   |
 
 ### Mancanze/limitazioni conosciute
 
