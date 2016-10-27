@@ -133,7 +133,11 @@ Niente da segnalare.
 
 ## Consuntivo
 
+<<<<<<< HEAD
 ![alt text](Allegati_Immagini/ganttConsuntivo.png "Gantt")
+=======
+![alt text](Allegati+Immagini/ganttConsuntivo.png "Gantt")
+>>>>>>> a17025d5f9b800d087d2255be2bc335ad96b6867
 
 Il tempo complessivo utilizzato è stato il medesimo della pianificazione (anche perché si trattava di un progetto guidato). Alcune attività sono state effettuate a cavallo di 2 lezioni (mi risultava difficile rappresentarlo sul gantt), ma l'effettivo è comunque molto molto simile a quanto pianificato.
 Il costo totale finale è di circa 20 CHF di materiali (in realtà utilizzati molto meno, si parla di 20 CHF a causa delle quantità in cui vengono venduti determinati pezzi), e 1800 CHF di lavoro sulle 36 ore usate.
