@@ -175,12 +175,12 @@
 <hr>
 <center>***Misure in cm.***</center>
 <hr>
-<img src="Allegati_Immagini/Disegni/misura1.jpg" alt="Coperchio" style="width:49%;"/>
-<img src="Allegati_Immagini/Disegni/misura2.jpg" alt="Base" style="width:49%;"/>
+<img src="Allegati_Immagini/Disegni/misura1.JPG" alt="Coperchio" style="width:49%;"/>
+<img src="Allegati_Immagini/Disegni/misura2.JPG" alt="Base" style="width:49%;"/>
 ***Nota***: La base è doppia, questo perché tutta la struttura si attacca ai lati della stessa, di conseguenza è meglio avere una superficie maggiore su cui incollare.<br>
-<img src="Allegati_Immagini/Disegni/misura3.jpg" alt="Retro" style="width:49%;"/>
-<img src="Allegati_Immagini/Disegni/misura4.jpg" alt="Parete" style="width:49%;"/>
-<img src="Allegati_Immagini/Disegni/misura5.jpg" alt="Fronte" style="width:49%;"/>
+<img src="Allegati_Immagini/Disegni/misura3.JPG" alt="Retro" style="width:49%;"/>
+<img src="Allegati_Immagini/Disegni/misura4.JPG" alt="Parete" style="width:49%;"/>
+<img src="Allegati_Immagini/Disegni/misura5.JPG" alt="Fronte" style="width:49%;"/>
 <hr>
 Una volta ottenuti i pezzi, essi vanno assemblati sui lati della base.
 <img src="Allegati_Immagini/Disegni/Attaccatura.png" alt="Attaccatura" style="width:49%"/>
@@ -190,5 +190,5 @@ Sul retro del case, la chiusura avviene tramite il rivestimento con il nastro da
 Sul fronte, invece, va inserito un chiodino che servira da aggancio per il triangolo. Il gancio stesso va attaccato in maniera analoga alla chiusura posteriore, ovvero durante la fase di rivestimento con il nastro. Anche qui fare diversi giri per assicurarsi che il gancio rimanga fermo.
 <br>
 <img src="Allegati_Immagini/Disegni/Chiusura_dietro.png" alt="Chiusura dietro" style="width:49%"/>
-<img src="Allegati_Immagini/Disegni/Gancio.jpg" alt="Chiusura davanti" style="width:49%"/>
+<img src="Allegati_Immagini/Disegni/Gancio.JPG" alt="Chiusura davanti" style="width:49%"/>
 <hr>
