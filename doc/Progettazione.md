@@ -138,7 +138,7 @@
 
 ### Pianificazione
 
-![alt text](Allegati/gantt.png "Gantt")
+![alt text](Allegati_Immagini/gantt.png "Gantt")
 
 ### Analisi dei mezzi
 
@@ -146,16 +146,49 @@
 
 ## Progettazione
 
-### Preparazione
+### Preparazione e prezzi
 
-- Compensato 4 mm
-- Nastro da hockey
-- Viti con dado (3x10)
-- Gancio appendi-quadri
-- Officina
-- Colla calda
-- Cacciaviti, trapani, traforo, ...
+| Componente  | Quantità | Prezzo |
+|:----:|:------:|----:|
+| Compensato | ~ foglio A4 | ~0,50 CHF (~7 CHF/m<sup>2</sup>) |
+| Nastro da hockey | 2 metri | 14,90 CHF (1 rotolo) |
+| Viti 3x10 mm | 4 | 2,95 CHF (1 scatola) |
+| Dadi autobloccanti | 4 | 1,95 CHF (1 scatola) |
+| Gancio appendi-quadri + chiodini | 1 | 2,95 CHF (1 scatola) |
 
-+costi/spese
+||||
+|-|
+| Lavoro | 36 h | 50 CHF/h |
 
-### Design
+### Design e progettazione
+<hr>
+ 1. Taglio del legno;
+ - Rifinitura con carta vetrata;
+ - Assemblaggio del case tramite la colla per il legno o la colla calda (specificato più sotto);
+ - Rifinitura con carta vetrata, in particolare livellamento della parte in cui il coperchio si andrà ad appoggiare e della base doppia;
+ - Inserimento del chiodo d'aggancio;
+ - Posizionamento del gancio;
+ - Posizionamento del Coperchio;
+ - Rivestimento con il nastro da hockey e conseguente fissatura di gancio e coperchio (specificato più sotto)
+  - **Attenzione**: Evitare di rivestire le parti interne e i fori per le prese, in quanto essendo fatti su misura, si rischia di impedire o rendere difficile l'inserimento dell'Arduino stesso.
+
+<hr>
+<center>***Misure in cm.***</center>
+<hr>
+<img src="Allegati_Immagini/Disegni/misura1.jpg" alt="Coperchio" style="width:49%;"/>
+<img src="Allegati_Immagini/Disegni/misura2.jpg" alt="Base" style="width:49%;"/>
+***Nota***: La base è doppia, questo perché tutta la struttura si attacca ai lati della stessa, di conseguenza è meglio avere una superficie maggiore su cui incollare.<br>
+<img src="Allegati_Immagini/Disegni/misura3.jpg" alt="Retro" style="width:49%;"/>
+<img src="Allegati_Immagini/Disegni/misura4.jpg" alt="Parete" style="width:49%;"/>
+<img src="Allegati_Immagini/Disegni/misura5.jpg" alt="Fronte" style="width:49%;"/>
+<hr>
+Una volta ottenuti i pezzi, essi vanno assemblati sui lati della base.
+<img src="Allegati_Immagini/Disegni/Attaccatura.png" alt="Attaccatura" style="width:49%"/>
+<hr>
+Sul retro del case, la chiusura avviene tramite il rivestimento con il nastro da hockey. Durante questa fase è necessario dare particolare attenzione a questa zona, facendo anche diversi giri più e più volte, per rendere la chiusura più solida. (La mobilità non ne risentirà in quanto si tratta praticamente di stoffa adesiva).
+
+Sul fronte, invece, va inserito un chiodino che servira da aggancio per il triangolo. Il gancio stesso va attaccato in maniera analoga alla chiusura posteriore, ovvero durante la fase di rivestimento con il nastro. Anche qui fare diversi giri per assicurarsi che il gancio rimanga fermo.
+<br>
+<img src="Allegati_Immagini/Disegni/Chiusura_dietro.png" alt="Chiusura dietro" style="width:49%"/>
+<img src="Allegati_Immagini/Disegni/Gancio.jpg" alt="Chiusura davanti" style="width:49%"/>
+<hr>
