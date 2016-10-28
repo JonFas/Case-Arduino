@@ -55,6 +55,7 @@ Una volta ricavati i pezzi (coperchio, fronte, retro, doppia base) ho assemblato
 ### Fissaggio Arduino
 Per fissare l'arduino, ma dare sempre la possibilità di attaccare o staccare la scheda, ho sfruttato delle viti con dado. Per prima cosa ho indicato sulla base i punti in cui l'arduino si andrà a fissare, in seguito ho fatto dei fori con il trapano a misura delle viti. In questo modo per togliere l'arduino sarebbe bastato svitare la vite rispettivamente il dado. Ho però incontrato il problema della lunghezza delle viti, non sufficiente a fissare l'arduino (avevo a disposizione quelle da 1 cm, considerando la base di 8mm, l'arduino e l'agio da lasciare per il dado).<br>
 Per risolvere ho dunque utilizzato il trapano, con una punta a dimensione del bullone, sul fondo della base per creare un'invasatura che permettesse di inserire ed incastrare il dado nel legno. In questo modo si può avvitare e svitare la vite senza problemi in quanto il bullone è fisso in fondo, e soprattutto viene risolto il problema della lunghezza, in quanto la vita penetra più a fondo e permette effettivamente di fissare il tutto.<br>
+<img src="Allegati_Immagini\Disegni\Arduino.JPG" style="width:50%">
 
 <i>Nota: </i>l'arduino è stato fissato solo tramite i 2 fori 'posteriori', questo perché la larghezza dei fori davanti non è sufficiente per inserire la testa delle viti usate. È comunque più che abbastanza utilizzarne 2 per questo scopo.
 ### Chiusura
@@ -164,21 +165,5 @@ Nel futuro (neanche troppo futuro) lavori del genere potranno molto probabilment
 
 ## Allegati
 
-Elenco degli allegati, esempio:
-
--   Diari di lavoro
-
--   Codici sorgente/documentazione macchine virtuali
-
--   Istruzioni di installazione del prodotto (con credenziali
-    di accesso) e/o di eventuali prodotti terzi
-
--   Documentazione di prodotti di terzi
-
--   Eventuali guide utente / Manuali di utilizzo
-
--   Mandato e/o Qdc
-
--   Prodotto
-
--   …
+<a href="Allegati_Immagini">Allegati e immagini</a><br>
+<a href="../diari">Diari di lavoro</a>

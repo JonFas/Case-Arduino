@@ -156,20 +156,20 @@
 | Dadi autobloccanti | 4 | 1,95 CHF (1 scatola) |
 | Gancio appendi-quadri + chiodini | 1 | 2,95 CHF (1 scatola) |
 
-||||
-|-|
+| | | |
+|--|--|--|
 | Lavoro | 36 h | 50 CHF/h |
 
 ### Design e progettazione
 <hr>
  1. Taglio del legno;
- - Rifinitura con carta vetrata;
- - Assemblaggio del case tramite la colla per il legno o la colla calda (specificato più sotto);
- - Rifinitura con carta vetrata, in particolare livellamento della parte in cui il coperchio si andrà ad appoggiare e della base doppia;
- - Inserimento del chiodo d'aggancio;
- - Posizionamento del gancio;
- - Posizionamento del Coperchio;
- - Rivestimento con il nastro da hockey e conseguente fissatura di gancio e coperchio (specificato più sotto)
+ 2. Rifinitura con carta vetrata;
+ 3. Assemblaggio del case tramite la colla per il legno o la colla calda (specificato più sotto);
+ 4. Rifinitura con carta vetrata, in particolare livellamento della parte in cui il coperchio si andrà ad appoggiare e della base doppia;
+ 5. Inserimento del chiodo d'aggancio;
+ 6. Posizionamento del gancio;
+ 7. Posizionamento del Coperchio;
+ 8. Rivestimento con il nastro da hockey e conseguente fissatura di gancio e coperchio (specificato più sotto)
   - **Attenzione**: Evitare di rivestire le parti interne e i fori per le prese, in quanto essendo fatti su misura, si rischia di impedire o rendere difficile l'inserimento dell'Arduino stesso.
 
 <hr>
